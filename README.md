@@ -1,4 +1,4 @@
-# Nowadays-Studio
+# Nowadays Studio
 
 __Introduction__
 
