@@ -15,8 +15,8 @@ I started with an empty studio apartment floating in space. Then I began creatin
 I enjoyed placing various types of furniture around the studio apartment the way I wanted to and getting more exposure to animation features. Even though it was cool to see a globe spinning in its holder, it was challenging to synchronize the rotation. Many unsuccessful attempts have been made to get the globe to spin. As each build came in, either the rotation spun when tapping the screen but would keep spinning when tapped again, something that wasn't according to plan. As for the furniture, the couch, cabinet, and chairs in the kitchen were misaligned. This didn't make it seem real and the ISO camera angle had to be used to look at properly while making the scene look real. 
 
 **Breakdown of final piece**
-![Alt Text] (https://github.com/tedlanda/Nowadays-Studio/blob/master/P2/Screenshots/Android1.png)
-![Alt Text] (https://github.com/tedlanda/Nowadays-Studio/blob/master/P2/Screenshots/Android2.png)
+![Alt Text](https://github.com/tedlanda/Nowadays-Studio/blob/master/P2/Screenshots/Android1.png)
+![Alt Text](https://github.com/tedlanda/Nowadays-Studio/blob/master/P2/Screenshots/Android2.png)
 
 **Conclusion**
 
