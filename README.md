@@ -7,7 +7,7 @@ VR app on Android using Unity that depicts a modern apartment setting with furni
 __Development Process__
 
 Google VR SDK version-1.0.3.
-I started with an empty stuio apartment. 
+I started with an empty studio apartment floating in space. Then I began creating game objects with shaders as well as loading up models of a chair, kitchen cabinet, rug, bookshelf, books, tables, fruit and other objects. Then I scaled the objects chose specifid colors and created some spotlights, arealights and baked them to specifications. I grabbed a globe, placed it into the holder object and used the Unity animation feature to make it spin/not spin as a user hits the cardboard button.
 
 
 **User Testing**
