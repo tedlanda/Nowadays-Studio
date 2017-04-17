@@ -6,10 +6,18 @@ VR app on Android using Unity that depicts a modern apartment setting with furni
 
 __Development Process__
 
+Google VR SDK version-1.0.3.
+I started with an empty stuio apartment. 
+
+
 **User Testing**
+
+I enjoyed placing various types of furniture around the studio apartment the way I wanted to and getting more exposure to animation features. Even though it was cool to see a globe spinning in its holder, it was challenging to synchronize the rotation. I would love to make my apartment more detailed in the future.
 
 **Breakdown of final piece**
 
 **Conclusion**
+
+
 
 
